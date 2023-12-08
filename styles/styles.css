@@ -1,6 +1,6 @@
 body {
-    background-color: #F5F5F5;
-    color: #555;
+    background-color: #f5f5f5;
+    color: #28096e;
     font-size: 1.1em;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     width: 100%;
@@ -27,7 +27,7 @@ text-align: "left";
 }
 
 section {
-border: thick double #32a1ce;;
+border: thick double #32ce5e;;
 margin-bottom: 30px;
 width: 50%;
 }
